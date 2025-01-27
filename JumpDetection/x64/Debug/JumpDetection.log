@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  dllmain.cpp
+  gui.cpp
+  hooks.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_dx12.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  memory.cpp
+  pattern_scanner.cpp
+  Generating Code...
+  buffer.c
+  trampoline.c
+  hde64.c
+  hook.c
+  Generating Code...
+  JumpDetection.vcxproj -> E:\Coding\JumpDetection\JumpDetection\x64\Debug\JumpDetection.dll

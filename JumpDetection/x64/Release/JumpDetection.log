@@ -1,0 +1,39 @@
+﻿  pch.cpp
+  dllmain.cpp
+  gui.cpp
+E:\Coding\JumpDetection\JumpDetection\gui.cpp(85,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  hooks.cpp
+E:\Coding\JumpDetection\JumpDetection\hooks.cpp(47,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_impl_dx11.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\backends\imgui_impl_dx11.cpp(607,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_impl_dx12.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\backends\imgui_impl_dx12.cpp(764,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_impl_win32.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\backends\imgui_impl_win32.cpp(926,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui.cpp(2008,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui.cpp(2780,1): warning C4005: 'va_copy': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui.cpp(2778,1): message : see previous definition of 'va_copy'
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui.cpp(16207,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_demo.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(154,1): warning C4005: 'IM_NEWLINE': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(152,1): message : see previous definition of 'IM_NEWLINE'
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(170,1): warning C4005: 'PRId64': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(167,1): message : see previous definition of 'PRId64'
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(171,1): warning C4005: 'PRIu64': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(168,1): message : see previous definition of 'PRIu64'
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(188,1): warning C4005: 'IMGUI_CDECL': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(186,1): message : see previous definition of 'IMGUI_CDECL'
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_demo.cpp(8904,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_draw.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_draw.cpp(124,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_draw.cpp(148,10): error C2006: '#include': expected "FILENAME" or <FILENAME>
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_draw.cpp(4633,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_tables.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_tables.cpp(4449,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  imgui_widgets.cpp
+E:\Coding\JumpDetection\JumpDetection\imgui\imgui_widgets.cpp(9157,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  kiero.cpp
+E:\Coding\JumpDetection\JumpDetection\kiero\kiero.cpp(40,1): warning C4005: 'KIERO_TEXT': macro redefinition
+E:\Coding\JumpDetection\JumpDetection\kiero\kiero.cpp(38,1): message : see previous definition of 'KIERO_TEXT'
+E:\Coding\JumpDetection\JumpDetection\kiero\kiero.cpp(720,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
